@@ -1,26 +1,26 @@
 
 header{
-  margin-left: 23em;
+  margin-left: 29em;
   border-style: double;
   display: inline-block;
 }
 body{
-  background-image: url(http://mumuland.m.u.pic.centerblog.net/bf867624.png);
-  background-position: bottom;
+  background-image: url(http://grittypretty.com/wordpress/wp-content/uploads/GrittyPretty_TheUndone_Holding.jpg);
 }
 h1{
   margin-left:15em;
+  color: #006633;
 }
 section.first
-
-{ border-style:dotted;
+{
+  border-style:dotted;
   display: inline-block;
   margin-left: 31em;
-  background-color: #FF6666
+  background-color:white;
 }
 section.first h2
 {
-  background-color: #FF3366;
+  color:#006633;
   text-decoration: underline;
   text-align: center;
 }
@@ -29,17 +29,17 @@ article.two
   display: inline-block;
   margin-left: 31.5em;
   margin-bottom: 2em;
-  background-color: #FF6699;
+  background-color:white;
 }
 article.three
-{ border-style:dotted;
+{ background-color: white;
+  border-style:dotted;
   display: inline-block;
   margin-left: 29.5em;
-  background-color: #FF6699;
 }
 article h2
 {
-  background-color: #FF0099;
+  color:#006633;
   text-decoration: underline;
   text-align: center;
 }
@@ -47,16 +47,15 @@ footer
 {
   margin-top: 5em;
   padding-top: 0em;
+  background-color:white;
+  border-style: double;
 }
 .pp
 {
-  width: 8em;
-  margin: auto;
-  padding-left: 18em;
-
+display: block;
+margin-left: 36.5em;
 }
-.logosimplon
+footer p
 {
-  width: 8em;
-  margin: auto;
+  text-align: center;
 }
