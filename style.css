@@ -1,1 +1,34 @@
-
+header{
+  margin-left: 25em;
+}
+h1{
+  margin-left:15em;
+}
+section.first
+{ display: inline-block;
+  margin-left: 31em;
+  background-color: orange;
+}
+section.first h2
+{
+  background-color: yellow;
+  text-decoration: underline;
+  text-align: center;
+}
+article.two
+{ display: inline-block;
+  margin-left: 31em;
+  margin-bottom: 2em;
+  background-color: orange;
+}
+article.three
+{ display: inline-block;
+  margin-left: 31em;
+  background-color: orange;
+}
+article h2
+{
+  background-color: yellow;
+  text-decoration: underline;
+  text-align: center;
+}
