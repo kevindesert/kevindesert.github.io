@@ -1,34 +1,62 @@
+
 header{
-  margin-left: 25em;
+  margin-left: 23em;
+  border-style: double;
+  display: inline-block;
+}
+body{
+  background-image: url(http://mumuland.m.u.pic.centerblog.net/bf867624.png);
+  background-position: bottom;
 }
 h1{
   margin-left:15em;
 }
 section.first
-{ display: inline-block;
+
+{ border-style:dotted;
+  display: inline-block;
   margin-left: 31em;
-  background-color: orange;
+  background-color: #FF6666
 }
 section.first h2
 {
-  background-color: yellow;
+  background-color: #FF3366;
   text-decoration: underline;
   text-align: center;
 }
 article.two
-{ display: inline-block;
-  margin-left: 31em;
+{ border-style:dotted;
+  display: inline-block;
+  margin-left: 31.5em;
   margin-bottom: 2em;
-  background-color: orange;
+  background-color: #FF6699;
 }
 article.three
-{ display: inline-block;
-  margin-left: 31em;
-  background-color: orange;
+{ border-style:dotted;
+  display: inline-block;
+  margin-left: 29.5em;
+  background-color: #FF6699;
 }
 article h2
 {
-  background-color: yellow;
+  background-color: #FF0099;
   text-decoration: underline;
   text-align: center;
+}
+footer
+{
+  margin-top: 5em;
+  padding-top: 0em;
+}
+.pp
+{
+  width: 8em;
+  margin: auto;
+  padding-left: 18em;
+
+}
+.logosimplon
+{
+  width: 8em;
+  margin: auto;
 }
