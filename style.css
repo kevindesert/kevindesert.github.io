@@ -15,6 +15,7 @@ section.first
 {
   border-style:dotted;
   display: inline-block;
+  list-style: none;
   margin-left: 31em;
   background-color:white;
 }
